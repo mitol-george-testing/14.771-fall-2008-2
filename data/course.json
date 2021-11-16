@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Teaching and Education",
+      "Education Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e2d9fa4e-c860-960f-5031-d3380945e4bb",
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f",
+      "601a8d40-da60-8ad0-ea65-d4ed75b72477"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Development Economics: Microeconomic Issues and Policy Models",
+  "course_description": "Topics include productivity effects of health, private and social returns to education, education quality, education policy and market equilibrium, gender discrimination, public finance, decision making within families, firms and contracts, technology, labor and migration, land, and the markets for credit and savings.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.771",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
